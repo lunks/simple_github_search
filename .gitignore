@@ -27,4 +27,5 @@
 yarn-debug.log*
 .yarn-integrity
 .env.local
-.env.test # Because it is a public repo
+# Because it is a public repo
+.env.test
