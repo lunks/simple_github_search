@@ -1,24 +1,7 @@
-# README
+# Github Simple Search
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## How to run this app
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Create a file called `.env.local` with a variable `GITHUB_TOKEN` with a
+github token and run `rails server`.
